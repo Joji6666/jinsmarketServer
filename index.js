@@ -24,4 +24,4 @@ const server = http.createServer(function (req, res) {
 
 server.listen(port, hostname);
 
-console.log("grab market server on!");
+console.log("server on!");
